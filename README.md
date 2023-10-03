@@ -1,3 +1,5 @@
 # ProgettoMobileComputing
 
-ei proviamo
+-tst
+-bce
+-llc
