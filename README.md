@@ -1,5 +1,6 @@
 # ProgettoMobileComputing
 
--tst
+-crt
+-ppg
 -bce
 -llc
