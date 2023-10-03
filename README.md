@@ -1,3 +1,5 @@
 # ProgettoMobileComputing
 
-ei proviamo
+-abc
+-txt
+-bce
