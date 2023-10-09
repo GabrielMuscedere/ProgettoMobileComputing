@@ -10,3 +10,4 @@
 -crc
 -ppt
 nikke + rick = gay
+fradifra
