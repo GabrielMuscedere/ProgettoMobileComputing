@@ -9,3 +9,4 @@
 -bce
 -crc
 -ppt
+nikke + rick = gay
